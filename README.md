@@ -1,5 +1,6 @@
 # AsusXSS     
-Newly discovered XSS in ASUS RT-AC58U website components.     
+Newly discovered XSS in ASUS RT-AC58U website components. 
+CVE-2018-18291
 
 # Vulnerable components       
 Advanced_ASUSDDNS_Content.asp       
